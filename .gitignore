@@ -1,4 +1,6 @@
 drowsyenv/
 .venv/
+.vscode/
 __pycache__/
 *.pyc
+
