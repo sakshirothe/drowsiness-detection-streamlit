@@ -1,7 +1,4 @@
+drowsyenv/
 .venv/
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-.env
-.streamlit/secrets.toml
