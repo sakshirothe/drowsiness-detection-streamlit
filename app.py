@@ -8,14 +8,17 @@ import time
 import base64
 from pathlib import Path
 from math import hypot
+from mediapipe.python.solutions import face_mesh
+from mediapipe.python.solutions import hands
+from mediapipe.python.solutions import drawing_utils
 
 st.set_page_config(page_title="Drowsiness Detection", layout="wide")
 st.title("Driver Drowsiness Detection")
 st.write("Close eyes for more than 10 seconds → alarm starts automatically. Show thumbs up → alarm stops automatically.")
 
-mp_face_mesh = mp.solutions.face_mesh
-mp_hands = mp.solutions.hands
-mp_draw = mp.solutions.drawing_utils
+mp_face_mesh = face_mesh
+mp_hands = hands
+mp_draw = drawing_utils
 
 LEFT_EYE = [33, 160, 158, 133, 153, 144]
 RIGHT_EYE = [362, 385, 387, 263, 373, 380]
