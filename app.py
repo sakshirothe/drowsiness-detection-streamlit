@@ -3,7 +3,6 @@ from streamlit_webrtc import webrtc_streamer, VideoProcessorBase, WebRtcMode
 import streamlit.components.v1 as components
 import av
 import cv2
-import mediapipe as mp
 import time
 import base64
 from pathlib import Path
