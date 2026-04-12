@@ -96,22 +96,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
----
-
-## 🌐 Deployment (Render)
-
-This project is deployed using **Docker on Render** to handle system dependencies like OpenCV and MediaPipe.
-
-Steps:
-
-1. Push code to GitHub
-2. Create a **Web Service on Render**
-3. Select **Docker environment**
-4. Deploy 🚀
-
----
-
 ## ⚠️ Limitations
 
 * Requires good lighting for accurate detection
