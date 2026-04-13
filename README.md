@@ -43,6 +43,16 @@ Many existing systems are either expensive or not easily accessible.
    * 🔇 Alarm stops
 
 ---
+## 📸 Output Screenshots
+
+### 🟢 Eyes Open / Monitoring
+![Eyes Open](eyes_open.png)
+
+### 🔴 Drowsiness Detected (Alarm ON)
+![Drowsy Alert](drowsy_alert.png)
+
+### 👍 Thumbs Up Gesture (Alarm Stop)
+![Thumbs Up](thumbs_up.png)
 
 ## 🛠️ Technologies Used
 
