@@ -46,7 +46,7 @@ Many existing systems are either expensive or not easily accessible.
 ## 📸 Output Screenshots
 
 ### 🟢 Eyes Open / Monitoring
-![Eyes Open](eyes_open.png)
+![Eyes Open](Eyes_open (2).png)
 
 ### 🔴 Drowsiness Detected (Alarm ON)
 ![Drowsy Alert](drowsy_alert.png)
