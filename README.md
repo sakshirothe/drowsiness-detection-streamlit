@@ -49,7 +49,7 @@ Many existing systems are either expensive or not easily accessible.
 ![Eyes Open](Eyes_open (2).png)
 
 ### 🔴 Drowsiness Detected (Alarm ON)
-![Drowsy Alert](drowsy_alert.png)
+![Drowsy Alert](Drowsy_alert.png)
 
 ### 👍 Thumbs Up Gesture (Alarm Stop)
 ![Thumbs Up](thumbs_up.png)
