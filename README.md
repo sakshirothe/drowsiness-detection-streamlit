@@ -46,13 +46,13 @@ Many existing systems are either expensive or not easily accessible.
 ## 📸 Output Screenshots
 
 ### 🟢 Eyes Open / Monitoring
-![Eyes Open](Eyes_open (2).png)
+![Eyes Open](Eyes_open.png)
 
 ### 🔴 Drowsiness Detected (Alarm ON)
 ![Drowsy Alert](Drowsy_alert.png)
 
 ### 👍 Thumbs Up Gesture (Alarm Stop)
-![Thumbs Up](thumbs_up.png)
+![Thumbs Up](Thumbs_up.png)
 
 ## 🛠️ Technologies Used
 
